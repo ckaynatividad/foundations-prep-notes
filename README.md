@@ -1,1 +1,12 @@
 # foundations-prep-notes
+    |__ day-1
+        |__ notes.md
+    |__ day-2
+        |__ notes.md
+    |__ day-3
+        |__ notes.md
+    |__ day-4
+        |__ notes.md
+    |__ day-5
+        |__ notes.md
+    |__ README.md
