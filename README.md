@@ -1,4 +1,4 @@
-# foundations-prep-notes
+## foundations-prep-notes
     |__ day-1
         |__ notes.md
     |__ day-2
